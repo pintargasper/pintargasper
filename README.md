@@ -8,6 +8,3 @@ I'm a developer from Slovenia, driven by curiosity and a passion for building me
 ### Currently working on
 **[Smoking Tracker](https://github.com/pintargasper/SmokingTracker)**  
 > Track your smoking and see weekly, monthly and yearly statistics
-
-**[Card Generator](https://github.com/pintargasper/CardGenerator)**  
-> Create and generate customizable cards
