@@ -8,3 +8,6 @@ I'm a developer from Slovenia, driven by curiosity and a passion for building me
 ### Currently working on
 **[Smoking Tracker](https://github.com/pintargasper/SmokingTracker)**  
 > Track your smoking and see weekly, monthly and yearly statistics
+
+### GitHub Metrics
+![GitHub Metrics](./github-metrics.svg)
