@@ -26,7 +26,7 @@ jobs:
           template: classic
           config_timezone: Europe/Ljubljana
           config_padding: 16, 48
-          config_order: base.header, base.activity+community, languages, stargazers, isocalendar, licenses, followup, lines, base.repositories, base.metadata
+          config_order: base.header, base.activity+community, base.repositories, licenses, stargazers, languages, isocalendar, followup, lines, base.metadata
 
           base: header, activity, community, repositories, metadata
           repositories_forks: no
