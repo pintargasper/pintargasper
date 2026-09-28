@@ -26,7 +26,7 @@ jobs:
           template: classic
           config_timezone: Europe/Ljubljana
           config_padding: 16, 48
-          config_order: base.header, base.activity+community, languages, isocalendar, stars, topics, licenses, followup, achievements, lines
+          config_order: base.header, base.activity+community, languages, isocalendar, stars, topics, licenses, followup, lines
 
           base: header, activity, community, repositories, metadata
           repositories_forks: no
@@ -42,10 +42,6 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_limit: 0
           
           plugin_lines: yes
           plugin_stars: yes
