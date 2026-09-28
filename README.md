@@ -1,13 +1,14 @@
-### Hi, my name is Gašper
+# Hi, I'm Gašper 👋
 
-I'm a developer from Slovenia, driven by curiosity and a passion for building meaningful software. All of my projects are created in my free time, where I explore ideas and develop applications that solve real life problems
+I'm a developer from Slovenia, passionate about building meaningful software and exploring new ideas in my free time.
 
-### My website
-[gasperpintar.com](https://gasperpintar.com)
+🌐 [gasperpintar.com](https://gasperpintar.com)
+📱 [Smoking Tracker](https://github.com/pintargasper/SmokingTracker) — Track your smoking and view weekly, monthly and yearly statistics.
 
-### Currently working on
-**[Smoking Tracker](https://github.com/pintargasper/SmokingTracker)**  
-> Track your smoking and see weekly, monthly and yearly statistics
+### GitHub Metrics
+
+![GitHub Metrics](./github-metrics.svg)
+
 
 ### GitHub Metrics
 ![GitHub Metrics](./github-metrics.svg)
