@@ -46,6 +46,3 @@ jobs:
           plugin_lines: yes
           plugin_licenses: yes
           plugin_stargazers: yes
-
-          optimize: svg
-          experimental_features: --optimize-svg
