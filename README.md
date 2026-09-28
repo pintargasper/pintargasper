@@ -8,7 +8,3 @@ I'm a developer from Slovenia, passionate about building meaningful software and
 ### GitHub Metrics
 
 ![GitHub Metrics](./github-metrics.svg)
-
-
-### GitHub Metrics
-![GitHub Metrics](./github-metrics.svg)
