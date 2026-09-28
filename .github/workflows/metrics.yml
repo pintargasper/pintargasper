@@ -24,9 +24,9 @@ jobs:
           use_prebuilt_image: yes
 
           template: classic
-
           config_timezone: Europe/Ljubljana
           config_padding: 16, 48
+          config_order: base.header, base.activity+community, languages, isocalendar, stars, topics, licenses, followup, achievements, lines
 
           base: header, activity, community, repositories, metadata
           repositories_forks: no
@@ -40,12 +40,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
@@ -54,6 +48,12 @@ jobs:
           plugin_achievements_limit: 0
           
           plugin_lines: yes
+          plugin_stars: yes
+
+          plugin_topics: yes
+          plugin_topics_mode: icons
+
+          plugin_licenses: yes
 
           optimize: svg
           experimental_features: --optimize-svg
