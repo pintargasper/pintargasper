@@ -5,6 +5,6 @@ I'm a developer from Slovenia, passionate about building meaningful software and
 🌐 [gasperpintar.com](https://gasperpintar.com)
 📱 [Smoking Tracker](https://github.com/pintargasper/SmokingTracker) — Track your smoking and see daily, weekly, monthly and yearly statistics.
 
-### GitHub Metrics
+---
 
 ![GitHub Metrics](./github-metrics.svg)
